@@ -2,7 +2,7 @@
 
 The homepage of my [online portfolio](https://arielmalka.com).
 
-### Instructions for building WASM + WebGL version on macOS:
+### Instructions for building WASM + WebGL version on macOS or Linux:
 
 1. Install Emscripten and build the chronotext-cross library following [these instructions](https://arielm.github.io/cross-blog/2022/10/06/running-in-the-browser.html)
 
